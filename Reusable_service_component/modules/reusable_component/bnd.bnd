@@ -1,0 +1,4 @@
+Bundle-Name: reusable_component
+Bundle-SymbolicName: com.reusable.component
+Bundle-Version: 1.0.0
+Export-Package: com.reusable.component.constants
